@@ -1,0 +1,17 @@
+@media screen and (min-width: 632px) {
+  #heading {
+    font-size: 42px;
+  }
+}
+
+@media screen and (min-width: 860px) {
+  #heading {
+    font-size: 52px;
+  }
+}
+
+@media screen and (min-width: 1290px) {
+  #heading {
+    font-size: 68px;
+  }
+}

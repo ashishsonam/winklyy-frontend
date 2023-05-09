@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Cocogoose Pro Thin-trial';
+  src: url('../public/fonts/Cocogoose Pro Thin-trial.ttf');
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro Ultralight-trial';
+  src: url('../public/fonts/Cocogoose Pro Ultralight-trial.ttf');
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro Light-trial';
+  src: url('../public/fonts/Cocogoose Pro Light-trial.ttf');
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro Semilight-trial';
+  src: url('../public/fonts/Cocogoose Pro Semilight-trial.ttf');
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro-trial';
+  src: url('../public/fonts/Cocogoose Pro-trial.ttf');
+}
+
+html {
+  overflow-x: hidden;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
